@@ -2,9 +2,11 @@
 
 ## 感谢
 
-感谢 [nondance/ncmdump](https://github.com/nondanee/ncmdump "nondance/ncmdump")
+[nondance/ncmdump](https://github.com/nondanee/ncmdump "nondance/ncmdump")
 
-感谢 [iKunpw/auto-ncmdump](https://github.com/iKunpw/auto-ncmdump.git)
+[iKunpw/auto-ncmdump](https://github.com/iKunpw/auto-ncmdump.git)
+
+[ncmdump](https://github.com/QCloudHao/ncmdump)
 
 ## 使用
 

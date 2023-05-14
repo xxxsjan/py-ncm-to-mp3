@@ -13,3 +13,7 @@
 网易云的ncm格式转mp3 的 手动脚本
 
 执行脚本 `python ./autodump.py`
+
+## 打包
+
+pyinstaller --onefile .\autodump.py

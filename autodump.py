@@ -39,13 +39,14 @@ def main():
 main()
 
 # 循环脚本
-# while 1:
-#     thefile=list(all_files(download_folder, '*.ncm'))
-#     print(thefile)
-#     for item in thefile:
-#         print(item)
-        # if(waiting == True):
-        #     waiting = False
-        #     os.system('cls')
-        # print (dump(item),"转换成功！")
-        # delete = os.remove(item)
+def auto():
+    while 1:
+        thefile=list(all_files(download_folder, '*.ncm'))
+        print(thefile)
+        for item in thefile:
+            print(item)
+            if(waiting == True):
+                waiting = False
+                os.system('cls')
+            print (dump(item),"转换成功！")
+            delete = os.remove(item)

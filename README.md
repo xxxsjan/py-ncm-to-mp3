@@ -9,4 +9,5 @@
 ## 使用
 
 网易云的ncm格式转mp3 的 手动脚本
-你需要会py文件的执行
+
+执行脚本 `python ./autodump.py`

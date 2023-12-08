@@ -1,0 +1,1 @@
+pycryptodome==23.0.1

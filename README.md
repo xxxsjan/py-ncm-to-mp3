@@ -1,12 +1,5 @@
 # py-ncm-to-mp3
 
-## 感谢
-
-[nondance/ncmdump](https://github.com/nondanee/ncmdump "nondance/ncmdump")
-
-[iKunpw/auto-ncmdump](https://github.com/iKunpw/auto-ncmdump.git)
-
-[ncmdump](https://github.com/QCloudHao/ncmdump)
 
 ## 使用
 
@@ -17,3 +10,12 @@
 ## 打包
 
 pyinstaller --onefile .\autodump.py
+
+
+感谢
+
+[nondance/ncmdump](https://github.com/nondanee/ncmdump "nondance/ncmdump")
+
+[iKunpw/auto-ncmdump](https://github.com/iKunpw/auto-ncmdump.git)
+
+[ncmdump](https://github.com/QCloudHao/ncmdump)
